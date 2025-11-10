@@ -1,0 +1,20 @@
+# Build artifacts
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+*.o
+*.obj
+*.log
+
+# Python & Gradio
+.gradio/
+__pycache__/
+*.pyc
+
+# Generated files
+*.csv
+
+# System
+.DS_Store
+Thumbs.db
